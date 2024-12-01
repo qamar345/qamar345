@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Qamar
+# Hi there! 👋 I'm Qamar Naveed
 
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer**, **Tech Enthusiast**, and an advocate for learning and growing through coding. I enjoy working on diverse projects that solve real-world problems, from **web development** to **AI-driven solutions**.
 
